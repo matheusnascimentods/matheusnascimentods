@@ -1,23 +1,35 @@
-### Hello World! Eu sou Matheus Nascimento 🖐️
+## Hello World! Eu sou Matheus Nascimento 🖐️
 
-Sou um desenvolvedor apaixonado por tecnologia, estudando programação desde os 14 anos. Concluí o curso técnico de Desenvolvimento de Sistemas na ETEC e ampliei meus conhecimentos em ciência da computação ao finalizar o renomado CS50 de Harvard. Sempre em busca de aprendizado contínuo, estou comprometido em criar soluções inovadoras e de impacto.
+Backend Software Engineer Júnior com experiência prática no desenvolvimento de serviços backend escaláveis, automações inteligentes e arquiteturas orientadas a microsserviços em ambientes de produção. Atuo principalmente com Node.js e TypeScript, desenvolvendo APIs REST performáticas utilizando NestJs, Prisma, Redis e mensageria com RabbitMQ, em infraestrutura cloud na GCP e ambientes containerizados com Docker e Kubernetes. Tenho vivência na automação de processos corporativos críticos, criando jobs distribuídos, webhooks e integrações entre plataformas que eliminaram fluxos manuais, reduziram erros operacionais e aumentaram a eficiência do time. Possuo base sólida em DevOps, com experiência em CI/CD, gestão de segredos, observabilidade e monitoramento de serviços. Também tenho fundamentos consistentes em Java e Spring Boot, aplicando boas práticas de engenharia de software, bancos de dados SQL/NoSQL e desenvolvimento de APIs. Perfil orientado à aprendizagem contínua, qualidade de código, estabilidade de sistemas e entrega de soluções com impacto real para o negócio.
 
-### Tecnologias que domino 💻
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="mongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div><br/>
+Veja o meu perfil no [linkedIn](https://www.linkedin.com/in/matheusnascimentods/).
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">  
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusnascimentods\&show_icons=true&theme=react\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true)
-</div>
+### 💼 Experiência com engenharia de software
+
+- Experiência no desenvolvimento e manutenção de **serviços backend escaláveis** utilizando **Node.js, TypeScript e NestJS**
+- Criação de **APIs REST performáticas** e bem estruturadas, integradas a sistemas internos e serviços parceiros
+- Atuação em **arquiteturas orientadas a microsserviços**, com foco em escalabilidade, resiliência e manutenibilidade
+- Implementação de **automações corporativas críticas**, eliminando fluxos manuais, reduzindo erros operacionais e aumentando a eficiência do time
+- Desenvolvimento de **jobs assíncronos, CronJobs e webhooks** para sincronização, validação e distribuição de dados entre plataformas
+- Experiência com **mensageria e processamento assíncrono** utilizando **RabbitMQ e Redis**
+- Integração de soluções de **IA aplicada**, incluindo **RAG, bancos de dados vetoriais (Qdrant)** e integração com **LLMs (Gemini)**
+- Vivência em **infraestrutura cloud na Google Cloud Platform (GCP)**, com serviços em produção
+- Experiência prática com **Docker e Kubernetes** em ambientes containerizados
+- Atuação em **CI/CD**, colaborando com pipelines automatizados, versionamento e deploy contínuo
+- Implementação de **observabilidade e monitoramento**, utilizando **Grafana, Loki e OpenTelemetry**
+- Conhecimento sólido em **bancos de dados SQL e NoSQL** como **PostgreSQL, MySQL e MongoDB**
+- Aplicação de **boas práticas de engenharia de software**, incluindo organização de código, padrões de projeto e qualidade
+- Experiência com **Java e Spring Boot**, aplicando fundamentos sólidos de backend
+- Colaboração próxima com **times de produto e tecnologia**, participando da evolução contínua dos sistemas
+- Perfil orientado à **aprendizagem contínua**, estabilidade de sistemas e entrega de soluções com impacto real no negócio
+
+
+### 🏆 Badges & Certificações
+- [Google Cloud Skills Boost Badges](https://www.skills.google/public_profiles/54e2bf52-4263-4f37-bc7b-dd7e01b93d9f) – Laboratórios práticos, desafios e certificados do Google Cloud.
+- [Cursos da Alura](https://cursos.alura.com.br/user/matheusnascimentodss) - Certificações e cursos concluídos na plataforma brasileira de educação tecnológica.
+
+
+### 📫 Vamos nos conectar 
+
+Estou sempre aberto a aprender, trocar experiências e colaborar em projetos que envolvam engenharia de software, backend, automação e soluções escaláveis. Gosto de discutir boas práticas, arquitetura, observabilidade e aplicações reais de cloud, microsserviços e IA.
+Sinta-se à vontade para se conectar comigo no [linkedIn](https://www.linkedin.com/in/matheusnascimentods/) e conversar sobre tecnologia, desafios de engenharia ou oportunidades de colaboração profissional.
